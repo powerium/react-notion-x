@@ -11,10 +11,10 @@
   "dependencies": {
     "@types/node": "^16.11.26",
     "@types/react": "^17.0.43",
-    "@types/react-dom": "^17.0.14",
+    "@types/react-dom": "^18.2.23",
     "notion-types": "^6.16.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react-dom": "^18.2.0",
     "react-notion-x": "^6.16.1",
     "react-scripts": "5.0.0",
     "typescript": "^4.6.3"
