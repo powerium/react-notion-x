@@ -15,9 +15,9 @@
   "dependencies": {
     "@notionhq/client": "^1.0.4",
     "classnames": "^2.3.1",
-    "got": "^12.0.2",
+    "got": "^11.8.6",
     "lqip-modern": "^2.0.0",
-    "next": "^12.1.0",
+    "next": "^14.1.1",
     "notion-client": "^6.16.1",
     "notion-compat": "^6.16.1",
     "notion-utils": "^6.16.1",
